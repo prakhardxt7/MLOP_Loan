@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Praxis-Learning/Final_Projects/MLOP_LOAN/MLflow/mlruns/591671820303975004/4f0fad98655a454d80e89e570f182f44/artifacts
+end_time: 1733420193478
+entry_point_name: ''
+experiment_id: '591671820303975004'
+lifecycle_stage: active
+run_id: 4f0fad98655a454d80e89e570f182f44
+run_name: merciful-ape-916
+run_uuid: 4f0fad98655a454d80e89e570f182f44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733420193335
+status: 3
+tags: []
+user_id: prakhar

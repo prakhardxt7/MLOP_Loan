@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Praxis-Learning/Final_Projects/MLOP_LOAN/MLflow/mlruns/591671820303975004/0b2f5d0a2c3546649a7027648b705e79/artifacts
+end_time: 1733420035770
+entry_point_name: ''
+experiment_id: '591671820303975004'
+lifecycle_stage: active
+run_id: 0b2f5d0a2c3546649a7027648b705e79
+run_name: Example Demo
+run_uuid: 0b2f5d0a2c3546649a7027648b705e79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733420035683
+status: 3
+tags: []
+user_id: prakhar
